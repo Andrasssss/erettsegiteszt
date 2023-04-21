@@ -24,6 +24,7 @@ nav {
     margin-right: 20px;
 }
 
+
 a {
     color: rgb(32, 30, 49);
     font: bold;
@@ -34,6 +35,8 @@ h1, h2, h3 {
     margin: 20px 0px;    
     font-weight: bold;
 }
+
+
 
 h1, h2 {
     font-size: 28pt;
