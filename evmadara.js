@@ -49,4 +49,6 @@ function nagyKezdo(szoveg){
 
 function veletlen(){
     ev.value=Math.floor(Math.random() * 36) + 1979;
+    // frissít függvény
+    frissit();
 }
